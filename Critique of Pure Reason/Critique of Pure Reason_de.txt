@@ -69,7 +69,7 @@ mitten in dem Flor aller Wissenschaften ereignet und gerade diejenigen
 trifft, auf deren Kenntnisse, wenn dergleichen zu haben wären, man
 unter allen am wenigsten Verzicht tun würde, doch ein Phänomen, das
 Aufmerksamkeit und Nachsinnen verdient. Sie ist offenbar die Wirkung
-nicht des Leichtsinns, sondern der gereiften Urteilskraft* des
+nicht des Leichtsinns, sondern der gereiften Urteilskraft des
 Zeitalters, welches sich nicht länger durch Scheinwissen hinhalten
 läßt und eine Aufforderung an die Vernunft, das beschwerlichste
 aller ihrer Geschäfte, nämlich das der Selbsterkenntnis aufs neue
@@ -78,24 +78,6 @@ gerechten Ansprüchen sichere, dagegen aber alle grundlosen Anmaßungen,
 nicht durch Machtsprüche, sondern nach ihren ewigen und unwandelbaren
 Gesetzen, abfertigen könne, und dieser ist kein anderer als die Kritik
 der reinen Vernunft selbst.
-
-* Man hört hin und wieder Klagen über Seichtigkeit der Denkungsart
-  unserer Zeit und den Verfall gründlicher Wissenschaft. Allein ich
-  sehe nicht, daß die, deren Grund gut gelegt ist, als Mathematik,
-  Naturlehre usw. diesen Vorwurf im mindesten verdienen, sondern
-  vielmehr den alten Ruhm der Gründlichkeit behaupten, in der
-  letzteren aber sogar übertreffen. Eben derselbe Geist würde sich
-  nun auch in anderen Arten von Erkenntnis wirksam beweisen, wäre nur
-  allererst für die Berichtigung ihrer Prinzipien gesorgt worden. In
-  Ermanglung derselben sind Gleichgültigkeit und Zweifel und endlich,
-  strenge Kritik, vielmehr Beweise einer gründlichen Denkungsart.
-  Unser Zeitalter ist das eigentliche Zeitalter der Kritik, der
-  sich alles unterwerfen muß. Religion, durch ihre Heiligkeit, und
-  Gesetzgebung durch ihre Majestät, wollen sich gemeiniglich derselben
-  entziehen. Aber alsdann erregen sie gerechten Verdacht wider sich
-  und können auf unverstellte Achtung nicht Anspruch machen, die die
-  Vernunft nur demjenigen bewilligt, was ihre freie und öffentliche
-  Prüfung hat aushalten können.
 
 Ich verstehe aber hierunter nicht eine Kritik der Bücher und Systeme,
 sondern die des Vernunftvermögens überhaupt, in Ansehung aller
@@ -524,7 +506,7 @@ und nötig, aber nur um zu derjenigen Deutlichkeit der Begriffe zu
 gelangen, die zu einer sicheren und ausgebreiteten Synthesis, als zu
 einem wirklich neuen Anbau, erforderlich ist.
 
-Es liegt also hier ein gewisses Geheimnis verborgen*, dessen
+Es liegt also hier ein gewisses Geheimnis verborgen, dessen
 Aufschluß allein den Fortschritt in dem grenzenlosen Felde der reinen
 Verstandeserkenntnis sicher und zuverlässig machen kann: nämlich
 mit gehöriger Allgemeinheit den Grund der Möglichkeit synthetischer
@@ -535,12 +517,6 @@ ursprünglichen Quellen, Abteilungen, Umfang und Grenzen, nicht durch
 einen flüchtigen Umkreis zu bezeichnen, sondern vollständig und zu
 jedem Gebrauch hinreichend zu bestimmen. Soviel vorläufig von dem
 Eigentümlichen, was die synthetischen Urteile an sich haben.
-
-* Wäre es einem von den Alten eingefallen, auch nur diese Frage
-  aufzuwerfen, so würde diese allein allen Systemen der reinen
-  Vernunft bis auf unsere Zeit mächtig widerstanden haben, und hätte
-  so viele eitele Versuche erspart, die, ohne zu wissen, womit man
-  eigentlich zu tun hat, blindlings unternommen worden.
 
 Aus diesem allen ergibt sich nun die Idee einer besondern
 Wissenschaft, die zur Kritik der reinen Vernunft dienen könne. Es
@@ -720,28 +696,11 @@ Sinne oder Empfindung, als eine bloße Form der Sinnlichkeit im Gemüte
 stattfindet.
 
 Eine Wissenschaft von allen Prinzipien der Sinnlichkeit a priori
-nenne ich die transzendentale Ästhetik*. Es muß also eine solche
+nenne ich die transzendentale Ästhetik. Es muß also eine solche
 Wissenschaft geben, die den ersten Teil der transzendentalen
 Elementarlehre ausmacht, im Gegensatz mit derjenigen, welche die
 Prinzipien des reinen Denkens enthält, und transzendentale Logik
 genannt wird.
-
-* Die Deutschen sind die einzigen, welche sich jetzt des Worts
-  Ästhetik bedienen, um dadurch das zu bezeichnen, was andere Kritik
-  des Geschmacks heißen. Es liegt hier eine verfehlte Hoffnung
-  zum Grunde, die der vortreffliche Analyst Baumgarten faßte, die
-  kritische Beurteilung des Schönen unter Vernunftprinzipien zu
-  bringen, und die Regeln derselben zur Wissenschaft zu erheben.
-  Allein diese Bemühung ist vergeblich. Denn gedachte Regeln oder
-  Kriterien sind ihren Quellen nach bloß empirisch, und können
-  also niemals zu Gesetzen a priori dienen, wonach sich unser
-  Geschmacksurteil richten müßte, vielmehr macht das letztere den
-  eigentlichen Probierstein der Richtigkeit der ersteren aus.
-  Um deswillen ist es ratsam, diese Benennung wiederum eingehen
-  zu lassen, und sie derjenigen Lehre aufzubehalten, die wahre
-  Wissenschaft ist, wodurch man auch der Sprache und dem Sinne der
-  Alten näher treten würde, bei denen die Einteilung der Erkenntnis in
-  aistheta kai noeta sehr berühmt war.
 
 In der transzendentalen Ästhetik also werden wir zuerst die
 Sinnlichkeit isolieren, dadurch, daß wir alles absondern, was der
@@ -1118,16 +1077,10 @@ Erkenntnis geben, in welcher die Vorstellung der Zeit, mithin auch
 der Veränderung, gar nicht vorkäme. Es bleibt also ihre empirische
 Realität als Bedingung aller unserer Erfahrungen. Nur die absolute
 Realität kann ihr nach dem oben Angeführten nicht zugestanden werden.
-Sie ist nichts, als die Form unserer inneren Anschauung*. Wenn man
+Sie ist nichts, als die Form unserer inneren Anschauung. Wenn man
 von ihr die besondere Bedingung unserer Sinnlichkeit wegnimmt, so
 verschwindet auch der Begriff der Zeit, und sie hängt nicht an den
 Gegenständen selbst, sondern bloß am Subjekte, welches sie anschaut.
-
-* Ich kann zwar sagen: meine Vorstellungen folgen einander; aber das
-  heißt nur, wir sind uns ihrer, als in einer Zeitfolge, d.i. nach
-  der Form des inneren Sinnes, bewußt. Die Zeit ist darum nicht
-  etwas an sich selbst, auch keine den Dingen objektiv anhängende
-  Bestimmung.
 
 Die Ursache aber, weswegen dieser Einwurf so einstimmig gemacht wird,
 und zwar von denen, die gleichwohl gegen die Lehre von der Idealität
@@ -1995,7 +1948,7 @@ sondern nur den Wert der Copula in Beziehung auf das Denken überhaupt
 angeht. Problematische Urteile sind solche, wo man das Bejahen oder
 Verneinen als bloß möglich (beliebig) annimmt. Assertorische, da es
 als wirklich (wahr) betrachtet wird. Apodiktische, in denen man es als
-notwendig ansieht*. So sind die beiden Urteile, deren Verhältnis das
+notwendig ansieht. So sind die beiden Urteile, deren Verhältnis das
 hypothetische Urteil ausmacht, (antecedens und consequens), imgleichen
 in deren Wechselwirkung das Disjunktive besteht, (Glieder der
 Einteilung) insgesamt nur problematisch. In dem obigen Beispiel wird
@@ -2025,13 +1978,6 @@ wohl es assertorisch als wahr annimmt, endlich als unzertrennlich mit
 dem Verstande verbunden, d.i. als notwendig und apodiktisch behauptet,
 so kann man diese drei Funktionen der Modalität auch so viel Momente
 des Denkens überhaupt nennen.
-
-* Gleich, als wenn das Denken im ersten Fall eine Funktion des
-  Verstandes, im zweiten der Urteilskraft, im dritten der Vernunft
-  wäre. Eine Bemerkung, die erst in der Folge ihre Aufklärung
-  erwartet.
-
-
 
 Des Leitfadens der Entdeckung aller reinen Verstandesbegriffe
 Dritter Abschnitt
@@ -2981,33 +2927,7 @@ Mannigfaltigen unserer Vorstellungen (mithin auch in der Anschauung),
 heißen. Nun ist die Einheit des Mannigfaltigen in einem Subjekt
 synthetisch: also gibt die reine Apperzeption ein Prinzipium der
 synthetischen Einheit des Mannigfaltigen in aller möglichen Anschauung
-an die Hand*.
-
-* Man gebe auf diesen Satz wohl acht, der von großer Wichtigkeit ist.
-  Alle Vorstellungen haben eine notwendige Beziehung auf ein mögliches
-  empirisches Bewußtsein: denn hätten sie dieses nicht, und wäre es
-  gänzlich unmöglich, sich ihrer bewußt zu werden; so würde das soviel
-  sagen, sie existierten gar nicht. Alles empirische Bewußtsein
-  hat aber eine notwendige Beziehung auf ein transzendentales (vor
-  aller besondern Erfahrung vorhergehendes) Bewußtsein, nämlich das
-  Bewußtsein meiner selbst, als die ursprüngliche Apperzeption. Es
-  ist also schlechthin notwendig, daß in meinem Erkenntnisse alles
-  Bewußtsein zu einem Bewußtsein (meiner selbst) gehöre. Hier ist nun
-  eine synthetische Einheit des Mannigfaltigen, (Bewußtseins) die a
-  priori erkannt wird, und gerade so den Grund zu synthetischen Sätzen
-  a priori, die das reine Denken betreffen, als Raum und Zeit zu
-  solchen Sätzen, die die Form der bloßen Anschauung angehen, abgibt.
-  Der synthetische Satz: daß alles verschiedene empirische Bewußtsein
-  in einem einigen Selbstbewußtsein verbunden sein müsse, ist der
-  schlechthin erste und synthetische Grundsatz unseres Denkens
-  überhaupt. Es ist aber nicht aus der Acht zu lassen, daß die bloße
-  Vorstellung Ich in Beziehung auf alle anderen (deren kollektive
-  Einheit sie möglich macht) das transzendentale Bewußtsein sei.
-  Diese Vorstellung mag nun klar (empirisches Bewußtsein) oder dunkel
-  sein, daran liegt hier nichts, ja nicht einmal an der Wirklichkeit
-  desselben; sondern die Möglichkeit der logischen Form alles
-  Erkenntnisses beruht notwendig auf dem Verhältnis zu dieser
-  Apperzeption als einem Vermögen.
+an die Hand.
 
 Diese synthetische Einheit setzt aber eine Synthesis voraus, oder
 schließt sie ein, und soll jene a priori notwendig sein, so muß
@@ -3066,19 +2986,10 @@ werden, so ist eine Verbindung derselben nötig, welche sie in dem
 Sinne selbst nicht haben können. Es ist also in uns ein tätiges
 Vermögen der Synthesis dieses Mannigfaltigen, welches wir
 Einbildungskraft nennen, und deren unmittelbar an den Wahrnehmungen
-ausgeübte Handlung ich Apprehension nenne*. Die Einbildungskraft soll
+ausgeübte Handlung ich Apprehension nenne. Die Einbildungskraft soll
 nämlich das Mannigfaltige der Anschauung in ein Bild bringen, vorher
 muß sie also die Eindrücke in ihre Tätigkeit aufnehmen, d.i.
 apprehendieren.
-
-* Daß die Einbildungskraft ein notwendiges Ingredienz der Wahrnehmung
-  selbst sei, daran hat wohl noch kein Psychologe gedacht. Das kommt
-  daher, weil man dieses Vermögen teils nur auf Reproduktionen
-  einschränkte, teils, weil man glaubte, die Sinne lieferten uns nicht
-  allein Eindrücke, sondern setzten solche auch sogar zusammen, und
-  brächten Bilder der Gegenstände zuwege, wozu ohne Zweifel außer der
-  Empfänglichkeit der Eindrücke, noch etwas mehr, nämlich eine
-  Funktion der Synthesis derselben erfordert wird.
 
 Es ist aber klar, daß selbst diese Apprehension des Mannigfaltigen
 allein noch kein Bild und keinen Zusammenhang der Eindrücke
@@ -3379,7 +3290,7 @@ Regeln vollauf, von fremder Einsicht entlehnt, darreichen und
 gleichsam einpfropfen kann; so muß doch das Vermögen, sich ihrer
 richtig zu bedienen, dem Lehrlinge selbst angehören, und keine Regel,
 die man ihm in dieser Absicht vorschreiben möchte, ist, in Ermangelung
-einer solchen Naturgabe, vor Mißbrauch sicher*. Ein Arzt daher, ein
+einer solchen Naturgabe, vor Mißbrauch sicher. Ein Arzt daher, ein
 Richter, oder ein Staatskundiger, kann viel schöne pathologische,
 juristische oder politische Regeln im Kopfe haben, in dem Grade, daß
 er selbst darin ein gründlicher Lehrer werden kann, und wird dennoch
@@ -3400,16 +3311,6 @@ zuletzt mehr wie Formeln, als Grundsätze, zu gebrauchen angewöhnen. So
 sind Beispiele der Gängelwagen der Urteilskraft, welchen derjenige,
 dem es am natürlichen Talent desselben mangelt, niemals entbehren
 kann.
-
-* Der Mangel an Urteilskraft ist eigentlich das, was man Dummheit
-  nennt, und einem solchen Gebrechen ist gar nicht abzuhelfen. Ein
-  stumpfer oder eingeschränkter Kopf, dem es an nichts, als am
-  gehörigen Grade des Verstandes und eigenen Begriffen desselben
-  mangelt, ist durch Erlernung sehr wohl, sogar bis zur Gelehrsamkeit,
-  auszurüsten. Da es aber gemeiniglich alsdann auch an jenem (der
-  secunda Petri) zu fehlen pflegt, so ist es nichts ungewöhnliches,
-  sehr gelehrte Männer anzutreffen, die, im Gebrauche ihrer
-  Wissenschaft, jenen nie zu bessernden Mangel häufig blicken lassen.
 
 Ob nun aber gleich die allgemeine Logik der Urteilskraft keine
 Vorschriften geben kann, so ist es doch mit der transzendentalen ganz
@@ -5080,13 +4981,7 @@ anderen Zustandes, allein vorgehen kann, (der Inhalt derselben, d.i.
 der Zustand, der verändert wird, mag sein, welcher er wolle), mithin
 die Sukzession der Zustände selbst (das Geschehene) kann doch nach dem
 Gesetze der Kausalität und den Bedingungen der Zeit a priori erwogen
-werden*.
-
-* Man merke wohl: daß ich nicht von der Veränderung gewisser
-  Relationen überhaupt, sondern von Veränderung des Zustandes rede.
-  Daher, wenn ein Körper sich gleichförmig bewegt, so verändert er
-  seinen Zustand (der Bewegung) gar nicht; aber wohl, wenn seine
-  Bewegung zu- und abnimmt.
+werden.
 
 Wenn eine Substanz aus einem Zustande a in einen anderen b übergeht,
 so ist der Zeitpunkt des zweiten vom Zeitpunkte des ersteren Zustandes
@@ -5268,9 +5163,6 @@ werden auf mancherlei Art möglich. Die drei dynamischen Verhältnisse,
 daraus alle übrigen entspringen, sind daher das der Inhärenz, der
 Konsequenz und der Komposition.
 
-                          *           *
-                                *
-
 Dies sind denn also die drei Analogien der Erfahrung. Sie sind nichts
 anderes, als Grundsätze der Bestimmung des Daseins der Erscheinungen
 in der Zeit, nach allen drei modis derselben, dem Verhältnisse zu der
@@ -5332,24 +5224,9 @@ Verstandes als seine Prinzipien empfiehlt, dogmatisch beweisen zu
 wollen, ist es denn geschehen, daß von dem Satze des zureichenden
 Grundes so oft, aber immer vergeblich ein Beweis ist versucht worden.
 An die beiden übrigen Analogien hat niemand gedacht, ob man sich
-ihrer gleich immer stillschweigend bediente*, weil der Leitfaden der
+ihrer gleich immer stillschweigend bediente, weil der Leitfaden der
 Kategorien fehlte, der allein jede Lücke des Verstandes, sowohl in
 Begriffen als Grundsätzen, entdecken und merklich machen kann.
-
-* Die Einheit des Weltganzen, in welchem alle Erscheinungen verknüpft
-  sein sollen, ist offenbar eine bloße Folgerung des insgeheim
-  angenommenen Grundsatzes der Gemeinschaft aller Substanzen, die
-  zugleich sind: denn, wären sie isoliert, so würden sie nicht
-  als Teile ein Ganzes ausmachen, und wäre ihre Verknüpfung
-  (Wechselwirkung des Mannigfaltigen) nicht schon um des Zugleichseins
-  willen notwendig, so könnte man aus diesem, als einem bloß idealen
-  Verhältnis, auf jene, als ein reales, nicht schließen. Wiewohl wir
-  an seinem Ort gezeigt haben: daß die Gemeinschaft eigentlich der
-  Grund der Möglichkeit einer empirischen Erkenntnis, der Koexistenz
-  sei, und daß man also eigentlich nur aus dieser auf jene, als ihre
-  Bedingung, zurückschließe.
-
-
 
 4. Die Postulate des empirischen Denkens überhaupt
 
@@ -5721,18 +5598,8 @@ dergleichen Satz kann darum nicht bewiesen werden, weil das Verfahren,
 was er fordert, gerade das ist, wodurch wir den Begriff von einer
 solchen Figur zuerst erzeugen. So können wir demnach mit ebendemselben
 Rechte die Grundsätze der Modalität postulieren, weil sie ihren
-Begriff von Dingen überhaupt nicht vermehren*, sondern nur die Art
+Begriff von Dingen überhaupt nicht vermehren, sondern nur die Art
 anzeigen, wie er überhaupt mit der Erkenntniskraft verbunden wird.
-
-* Durch die Wirklichkeit eines Dinges, setze ich freilich mehr, als
-  die Möglichkeit, aber nicht in dem Dinge; denn das kann niemals
-  mehr in der Wirklichkeit enthalten, als was in dessen vollständiger
-  Möglichkeit enthalten war. Sondern da die Möglichkeit bloß
-  eine Position des Dinges in Beziehung auf den Verstand (dessen
-  empirischen Gebrauch) war, so ist die Wirklichkeit zugleich eine
-  Verknüpfung desselben mit der Wahrnehmung.
-
-
 
 Der transzendentalen Doktrin der Urteilskraft
 (Analytik der Grundsätze)
@@ -5877,7 +5744,7 @@ irgend einem oder anderen Merkmale desselben auslangen kann, ohne eben
 dazu eine vollständige Herzählung aller derselben, die den ganzen
 Begriff ausmachen, zu bedürfen. Jetzt aber zeigt sich: daß der
 Grund dieser Vorsicht noch tiefer liege, nämlich, daß wir sie nicht
-definieren konnten, wenn wir auch wollten*, sondern, wenn man alle
+definieren konnten, wenn wir auch wollten, sondern, wenn man alle
 Bedingungen der Sinnlichkeit wegschafft, die sie als Begriffe eines
 möglichen empirischen Gebrauchs auszeichnen, und sie für Begriffe von
 Dingen überhaupt (mithin vom transzendentalen Gebrauch) nehmen, bei
@@ -5937,16 +5804,6 @@ wollte. Denn das Blendwerk, die logische Möglichkeit des Begriffs (da
 er sich selbst nicht widerspricht) der transzendentalen Möglichkeit
 der Dinge (da dem Begriff ein Gegenstand korrespondiert) zu
 unterschieben, kann nur Unversuchte hintergehen und zufrieden stellen.
-
-* Ich verstehe hier die Realdefinition, welche nicht bloß dem Namen
-  einer Sache andere und verständlichere Wörter unterlegt, sondern
-  die, so ein klares Merkmal, daran der Gegenstand (definitum)
-  jederzeit sicher erkannt werden kann und den erklärten Begriff zur
-  Anwendung brauchbar macht, in sich enthält Die Realerklärung würde
-  also diejenige sein, welche nicht bloß einen Begriff, sondern
-  zugleich die objektive Realität desselben deutlich macht. Die
-  mathematischen Erklärungen, welche den Gegenstand dem Begriffe gemäß
-  in der Anschauung darstellen, sind von der letzteren Art.
 
 Es hat etwas Befremdliches und sogar Widersinniges an sich, daß ein
 Begriff sein soll, dem doch eine Bedeutung zukommen muß, der aber
@@ -6761,9 +6618,6 @@ Bejahung (Realität) zur anderen, wird ja das Positive vermehrt, und
 ihm nichts entzogen, oder aufgehoben; daher kann das Reale in Dingen
 überhaupt einander nicht widerstreiten, usw.
 
-                          *           *
-                                *
-
 Die Begriffe der Reflexion haben, wie wir gezeigt haben, durch eine
 gewisse Mißdeutung einen solchen Einfluß auf den Verstandesgebrauch,
 daß sie sogar einen der scharfsichtigsten unter allen Philosophen zu
@@ -6813,7 +6667,7 @@ der Bewegung überhaupt abstrahiert war, die einen Widerstreit, der
 freilich nicht logisch ist, nämlich aus lauter Positivem ein Zero = 0
 möglich machen, und man konnte nicht sagen: daß darum alle Realität
 untereinander Einstimmung sei, weil unter ihren Begriffen kein
-Widerstreit angetroffen wird*. Nach bloßen Begriffen ist das Innere
+Widerstreit angetroffen wird. Nach bloßen Begriffen ist das Innere
 das Substratum aller Verhältnis oder äußeren Bestimmungen. Wenn ich
 also von allen Bedingungen der Anschauung abstrahiere, und mich
 lediglich an den Begriff von einem Dinge überhaupt halte, so kann ich
@@ -6879,17 +6733,6 @@ wir alsdann von aller Anschauung abstrahieren, so fällt eine ganze
 Art, wie das Mannigfaltige einander seinen Ort bestimmen kann,
 nämlich die Form der Sinnlichkeit (der Raum), weg, der doch vor aller
 empirischen Kausalität vorhergeht.
-
-* Wollte man sich hier der gewöhnlichen Ausflucht bedienen: daß
-  wenigstens realitates Noumena einander nicht entgegenwirken
-  können, so müßte man doch ein Beispiel von dergleichen reiner und
-  sinnenfreier Realität anführen, damit man verstände, ob eine solche
-  überhaupt etwas oder gar nichts vorstelle. Aber es kann kein
-  Beispiel woher anders, als aus der Erfahrung genommen werden, die
-  niemals mehr als Phänomena darbietet, und so bedeutet dieser Satz
-  nichts weiter, als daß der Begriff, der lauter Bejahungen enthält,
-  nichts Verneinendes enthalte; ein Satz, an dem wir niemals
-  gezweifelt haben.
 
 Wenn wir unter bloß intelligiblen Gegenständen diejenigen Dinge
 verstehen, die durch reine Kategorien, ohne alles Schema der
@@ -7089,7 +6932,7 @@ Erkenntnisquellen keine anderen haben, so folgt: daß der Irrtum nur
 durch den unbemerkten Einfluß der Sinnlichkeit auf den Verstand
 bewirkt werde, wodurch es geschieht, daß die subjektive Gründe des
 Urteils mit den objektiven zusammenfließen, und diese von ihrer
-Bestimmung abweichend machen*, so wie ein bewegter Körper zwar für
+Bestimmung abweichend machen, so wie ein bewegter Körper zwar für
 sich jederzeit die gerade Linie in derselben Richtung halten würde,
 die aber, wenn eine andere Kraft nach einer anderen Richtung zugleich
 auf ihn einfließt, in krummlinige Bewegung ausschlägt. Um die
@@ -7103,11 +6946,6 @@ reinen Urteilen a priori durch transzendentale Überlegung geschehen
 muß, wodurch (wie schon angezeigt worden) jeder Vorstellung ihre
 Stelle in der ihr angemessenen Erkenntniskraft angewiesen, mithin auch
 der Einfluß der letzteren auf jene unterschieden wird.
-
-* Die Sinnlichkeit, dem Verstande untergelegt, als das Objekt, worauf
-  dieser seine Funktion anwendet, ist der Quell realer Erkenntnisse.
-  Eben dieselbe aber, sofern sie auf die Verstandeshandlung selbst
-  einfließt, und ihn zum Urteilen bestimmt, ist der Grund des Irrtums.
 
 Unser Geschäft ist hier nicht, vom empirischen Scheine (z.B. dem
 optischen) zu handeln, der sich bei dem empirischen Gebrauche
@@ -7558,7 +7396,7 @@ weiter gehen, als daß irgendein Gegenstand, den Erfahrung geben kann,
 jemals mit ihnen kongruieren könne, die aber nichtsdestoweniger ihre
 Realität haben und keineswegs bloße Hirngespinste sind.
 
-Plato fand seine Ideen vorzüglich in allem was praktisch ist*, d.i.
+Plato fand seine Ideen vorzüglich in allem was praktisch ist, d.i.
 auf Freiheit beruht, welche ihrerseits unter Erkenntnissen steht, die
 ein eigentümliches Produkt der Vernunft sind. Wer die Begriffe der
 Tugend aus Erfahrung schöpfen wollte, wer das, was nur allenfalls als
@@ -7581,16 +7419,6 @@ mithin liegt sie jeder Annäherung zur moralischen Vollkommenheit
 notwendig zum Grunde, soweit auch die ihrem Grade nach nicht zu
 bestimmenden Hindernisse in der menschlichen Natur uns davon entfernt
 halten mögen.
-
-* Er dehnte seinen Begriff freilich auch auf spekulative Erkenntnisse
-  aus, wenn sie nur rein und völlig a priori gegeben waren, sogar über
-  die Mathematik, ob diese gleich ihren Gegenstand nirgend anders,
-  als in der möglichen Erfahrung hat. Hierin kann ich ihm nun nicht
-  folgen, so wenig als in der mystischen Deduktion dieser Ideen, oder
-  den Übertreibungen, dadurch er sie gleichsam hypostasierte; wiewohl
-  die hohe Sprache, deren er sich in diesem Felde bediente, einer
-  milderen und der Natur der Dinge angemessenen Auslegung ganz wohl
-  fähig ist.
 
 Die platonische Republik ist, als ein vermeintlich auffallendes
 Beispiel von erträumter Vollkommenheit, die nur im Gehirn des müßigen
@@ -8251,19 +8079,7 @@ demnach folgende:
                                    Einheit (nicht Vielheit).
 
                     4. Im Verhältnisse
-                       zu möglichen Gegenständen im Raume*.
-
-* Der Leser, der aus diesen Ausdrücken, in ihrer transzendentalen
-  Abgezogenheit, nicht so leicht den psychologischen Sinn derselben,
-  und warum das letztere Attribut der Seele zur Kategorie der Existenz
-  gehöre, erraten wird, wird sie in dem Folgenden hinreichend erklärt
-  und gerechtfertigt finden. Übrigens habe ich wegen der lateinischen
-  Ausdrücke, die statt der gleichbedeutenden deutschen, wider den
-  Geschmack der guten Schreibart, eingeflossen sind, sowohl bei
-  diesem Abschnitte, als auch in Ansehung des ganzen Werks, zur
-  Entschuldigung anzuführen: daß ich lieber etwas der Zierlichkeit der
-  Sprache habe entziehen, als den Schulgebrauch durch die mindeste
-  Unverständlichkeit erschweren wollen.
+                       zu möglichen Gegenständen im Raume.
 
 Aus diesen Elementen entspringen alle Begriffe der reinen Seelenlehre,
 lediglich durch die Zusammensetzung, ohne im mindesten ein anderes
@@ -8448,12 +8264,7 @@ sind, (z.B. die einzelnen Wörter eines Verses) niemals einen ganzen
 Gedanken (einen Vers) ausmachen: so kann der Gedanke nicht einem
 Zusammengesetzten, als einem solchen, inhärieren. Er ist also nur in
 einer Substanz möglich, die nicht ein Aggregat von vielen, mithin
-schlechterdings einfach ist*.
-
-* Es ist sehr leicht, diesem Beweise die gewöhnliche schulgerechte
-  Abgemessenheit der Einkleidung zu geben. Allein, es ist zu meinem
-  Zwecke schon hinreichend, den bloßen Beweisgrund, allenfalls auf
-  populäre Art, vor Augen zu legen.
+schlechterdings einfach ist.
 
 Der sogenannte nervus probandi dieses Argumente liegt in dem Satze:
 daß viele Vorstellungen in der absoluten Einheit des denkenden
@@ -8718,22 +8529,7 @@ erlaubt, die Identität desselben beizubehalten; obzwar ihm immer noch
 das gleichlautende Ich zuzuteilen, welches in jedem andern Zustande,
 selbst der Umwandlung des Subjekts, doch immer den Gedanken des
 vorhergehenden Subjekts aufbehalten und so auch dem folgenden
-überliefern könnte*.
-
-* Eine elastische Kugel, die auf eine gleiche in gerader Richtung
-  stößt, teilt dieser ihre ganze Bewegung, mithin ihren ganzen Zustand
-  (wenn man bloß auf die Stellen im Raume sieht) mit. Nehmt nun, nach
-  der Analogie mit dergleichen Körpern, Substanzen an, deren die eine
-  der andere Vorstellungen, samt deren Bewußtsein einflößte, so wird
-  sich eine ganze Reihe derselben denken lassen, deren die erste ihren
-  Zustand, samt dessen Bewußtsein, der zweiten, diese ihren eigenen
-  Zustand, samt dem der vorigen Substanz, der dritten und diese ebenso
-  die Zustände aller vorigen, samt ihrem eigenen und deren Bewußtsein,
-  mitteilte. Die letzte Substanz würde also aller Zustände der vor ihr
-  veränderten Substanzen sich als ihrer eigenen bewußt sein, weil jene
-  zusamt dem Bewußtsein in sie übertragen worden, und demunerachtet,
-  würde sie doch nicht ebendieselbe Person in allen diesen Zuständen
-  gewesen sein.
+überliefern könnte.
 
 Wenngleich der Satz einiger alten Schulen: daß alles fließend und
 nichts in der Welt beharrlich und bleibend sei, nicht stattfinden
@@ -8983,21 +8779,11 @@ wie Raum die Vorstellung einer bloßen Möglichkeit des Beisammenseins.
 Zweitens wird diese Wirklichkeit vor dem äußeren Sinn, d.i. im Raume
 vorgestellt. Drittens ist der Raum selbst nichts anderes, als bloße
 Vorstellung, mithin kann in ihm nur das als wirklich gelten, was in
-ihm vorgestellt* wird, und umgekehrt, was in ihm gegeben, d.i. durch
+ihm vorgestellt wird, und umgekehrt, was in ihm gegeben, d.i. durch
 Wahrnehmung vorgestellt wird, ist in ihm auch wirklich; denn wäre es
 in ihm nicht wirklich, d.i. unmittelbar durch empirische Anschauung
 gegeben, so könnte es auch nicht erdichtet werden, weil man das Reale
 der Anschauungen gar nicht a priori erdenken kann.
-
-* Man muß diesen paradoxen, aber richtigen Satz wohl merken: daß im
-  Raume nichts sei, als was in ihm vorgestellt wird. Denn der Raum ist
-  selbst nichts anderes, als Vorstellung, folglich was in ihm ist,
-  muß in der Vorstellung enthalten sein, und im Raume ist gar nichts,
-  außer, sofern es in ihm wirklich vorgestellt wird. Ein Satz, der
-  allerdings befremdlich klingen muß: daß eine Sache nur in der
-  Vorstellung von ihr existieren könne, der aber hier das Anstößige
-  verliert, weil die Sachen, mit denen wir es zu tun haben, nicht
-  Dinge an sich, sondern nur Erscheinungen, d.i. Vorstellungen sind.
 
 Alle äußere Wahrnehmung also beweist unmittelbar etwas Wirkliches im
 Raume, oder ist vielmehr das Wirkliche selbst, und insofern ist also
@@ -9663,7 +9449,7 @@ die Seele an sich selbst
        der Qualität                    bei der Vielheit in der Zeit,
        d.i.                            d.i.
        nicht als reales Ganze,         nicht in verschiedenen Zeiten
-       sondern einfach*                numerisch verschieden, sondern
+       sondern einfach                numerisch verschieden, sondern
                                        als Eines und eben dasselbe
                                        Subjekt
 
@@ -9673,11 +9459,6 @@ die Seele an sich selbst
                    sondern nur des Daseins ihrer selbst,
                    anderer Dinge aber, bloß
                    als ihrer Vorstellungen.
-
-* Wie das Einfache hier wiederum der Kategorie der Realität
-  entspreche, kann ich jetzt noch nicht zeigen, sondern wird
-  im folgenden Hauptstücke, bei Gelegenheit eines andern
-  Vernunftgebrauchs ebendesselben Begriffs, gewiesen werden.
 
 Vernunft ist das Vermögen der Prinzipien. Die Behauptungen der reinen
 Psychologie enthalten nicht empirische Prädikte von der Seele, sondern
@@ -9983,7 +9764,7 @@ ganzen Reihe bestehend, in der also alle Glieder ohne Ausnahme bedingt
 und nur das Ganze derselben schlechthin unbedingt wäre, und dann heißt
 der Regressus unendlich; oder das absolut Unbedingte ist nur ein Teil
 der Reihe, dem die übrigen Glieder derselben untergeordnet sind, er
-selbst aber unter keiner anderen Bedingung steht.* In dem ersteren
+selbst aber unter keiner anderen Bedingung steht. In dem ersteren
 Falle ist die Reihe a parte priori ohne Grenzen (ohne Anfang), d.i.
 unendlich, und gleichwohl ganz gegeben, der Regressus in ihr aber
 ist niemals vollendet, und kann nur potentialiter unendlich genannt
@@ -9994,20 +9775,11 @@ gegebenen Ganzen, das Einfache, in Ansehung der Ursachen die absolute
 Selbsttätigkeit (Freiheit), in Ansehung des Daseins veränderlicher
 Dinge die absolute Naturnotwendigkeit heißt.
 
-* Das absolute Ganze der Reihe von Bedingungen zu einem gegebenen
-  Bedingten ist jederzeit unbedingt; weil außer ihr keine Bedingungen
-  mehr sind, in Ansehung deren es bedingt sein könnte. Allein dieses
-  absolute Ganze einer solchen Reihe ist nur eine Idee, oder vielmehr
-  ein problematischer Begriff, dessen Möglichkeit untersucht werden
-  muß, und zwar in Beziehung auf die Art, wie das Unbedingte, als die
-  eigentliche transzendentale Idee, worauf es ankommt, darin enthalten
-  sein mag.
-
 Wir haben zwei Ausdrücke: Welt und Natur, welche bisweilen ineinander
 laufen. Das erste bedeutet das mathematische Ganze aller Erscheinungen
 und die Totalität ihrer Synthesis, im Großen sowohl als im Kleinen,
 d.i. sowohl in dem Fortschritt derselben durch Zusammensetzung, als
-durch Teilung. Eben dieselbe Welt wird aber Natur* genannt, sofern sie
+durch Teilung. Eben dieselbe Welt wird aber Natur genannt, sofern sie
 als ein dynamisches Ganze betrachtet wird, und man nicht auf die
 Aggregation im Raume oder der Zeit, um sie als eine Größe zustande zu
 bringen, sondern auf die Einheit im Dasein der Erscheinungen sieht. Da
@@ -10017,16 +9789,6 @@ bedingte dagegen heißt im engeren Verstande Naturursache. Das Bedingte
 im Dasein überhaupt heißt zufällig, und das Unbedingte notwendig. Die
 unbedingte Notwendigkeit der Erscheinungen kann Naturnotwendigkeit
 heißen.
-
-* Natur, adjektive (formaliter) genommen, bedeutet den Zusammenhang
-  der Bestimmungen eines Dinges nach einem inneren Prinzip der
-  Kausalität. Dagegen versteht man unter Natur, substantive
-  (materialiter), den Inbegriff der Erscheinungen, sofern diese
-  vermöge eines inneren Prinzips der Kausalität durchgängig
-  zusammenhängen. Im ersteren Verstande spricht man von der Natur der
-  flüssigen Materie, des Feuers etc., und bedient sich dieses Worts
-  adjective; dagegen wenn man von den Dingen der Natur redet, so hat
-  man ein bestehendes Ganzes in Gedanken.
 
 Die Ideen, mit denen wir uns jetzt beschäftigen, habe ich oben
 kosmologische Ideen genannt, teils darum, weil unter Welt der
@@ -10170,12 +9932,7 @@ irgendeiner Erfahrung entdeckt werden könnte. Die transzendentale
 Vernunft also verstattet keinen anderen Probierstein, als den Versuch
 der Vereinigung ihrer Behauptungen unter sich selbst, und mithin zuvor
 des freien und ungehinderten Wettstreits derselben untereinander, und
-diesen wollen wir anjetzt anstellen.*
-
-* Die Antinomien folgen einander nach der Ordnung der oben angeführten
-  transzendentalen Ideen.
-
-
+diesen wollen wir anjetzt anstellen.
 
 Die Antinomie der reinen Vernunft
 
@@ -10200,10 +9957,10 @@ zuerst zu beweisen war.
 In Ansehung des zweiten nehme man wiederum das Gegenteil an: so wird
 die Welt ein unendliches gegebenes Ganze von zugleich existierenden
 Dingen sein. Nun können wir die Größe eines Quanti, welches nicht
-innerhalb gewissen Grenzen jeder Anschauung gegeben wird,* auf keine
+innerhalb gewissen Grenzen jeder Anschauung gegeben wird, auf keine
 andere Art, als nur durch die Synthesis der Teile, und die Totalität
 eines solchen Quanti nur durch die vollendete Synthesis, oder durch
-wiederholte Hinzusetzung der Einheit zu sich selbst, gedenken.**
+wiederholte Hinzusetzung der Einheit zu sich selbst, gedenken.
 Demnach, um sich die Welt, die alle Räume erfüllt, als ein Ganzes zu
 denken, müßte die sukzessive Synthesis der Teile einer unendlichen
 Welt als vollendet angesehen, d.i., eine unendliche Zeit müßte, in der
@@ -10213,19 +9970,6 @@ wirklicher Dinge, nicht als ein gegebenes Ganze, mithin auch nicht
 als zugleich gegeben, angesehen werden. Eine Welt ist folglich, der
 Ausdehnung im Raume nach, nicht unendlich, sondern in ihren Grenzen
 eingeschlossen, welches das zweite war.
-
-* Wir können ein unbestimmtes Quantum als ein Ganzes anschauen, wenn
-  es in Grenzen eingeschlossen ist, ohne die Totalität desselben durch
-  Messung, d.i. die sukzessive Synthesis seiner Teile, konstruieren zu
-  dürfen. Denn die Grenzen bestimmen schon die Vollständigkeit, indem
-  sie alles Mehrere abschneiden.
-
-** Der Begriff der Totalität ist in diesem Falle nichts anderes, als
-   die Vorstellung der vollendeten Synthesis, seiner Teile, weil, da
-   wir nicht von der Anschauung des Ganzen (als welche in diesem Falle
-   unmöglich ist) den Begriff abziehen können, wir diesen nur durch
-   die Synthesis der Teile, bis zur Vollendung des Unendlichen,
-   wenigstens in der Idee fassen können.
 
         Antithesis
 
@@ -10256,27 +10000,7 @@ stehe, so würde das Verhältnis der Welt zum leeren Raum ein Verhältnis
 derselben zu keinem Gegenstande sein. Ein dergleichen Verhältnis aber,
 mithin auch die Begrenzung der Welt durch den leeren Raum, ist nichts;
 also ist die Welt, dem Raume nach, gar nicht begrenzt, d.i. sie ist in
-Ansehung der Ausdehnung unendlich.*
-
-* Der Raum ist bloß die Form der äußeren Anschauung (formale
-  Anschauung), aber kein wirklicher Gegenstand, der äußerlich
-  angeschaut werden kann. Der Raum, vor allen Dingen, die ihn
-  bestimmen (erfüllen oder begrenzen), oder die vielmehr eine seiner
-  Form gemäße empirische Anschauung geben, ist, unter dem Namen des
-  absoluten Raumes, nichts anderes, als die bloße Möglichkeit äußerer
-  Erscheinungen, sofern sie entweder an sich existieren, oder zu
-  gegebenen Erscheinungen noch hinzukommen können. Die empirische
-  Anschauung ist also nicht zusammengesetzt aus Erscheinungen und dem
-  Raume (der Wahrnehmung und der leeren Anschauung). Eines ist nicht
-  des anderen Korrelatum der Synthesis, sondern nur in einer und
-  derselben empirischen Anschauung verbunden, als Materie und Form
-  derselben. Will man eine dieser zwei Stücke außer der anderen setzen
-  (Raum außerhalb allen Erscheinungen), so entstehen daraus allerlei
-  leere Bestimmungen der äußeren Anschauung, die doch nicht mögliche
-  Wahrnehmungen sind. Z.B. Bewegung oder Ruhe der Welt im unendlichen
-  leeren Raum, eine Bestimmung des Verhältnisses beider untereinander,
-  welche niemals wahrgenommen werden kann, und also auch das Prädikat
-  eines bloßen Gedankendinges ist.
+Ansehung der Ausdehnung unendlich.
 
         Anmerkung zur ersten Antinomie
         I. zur Thesis
@@ -10313,14 +10037,10 @@ nicht erkannt würde, davon auch hier nicht die Rede ist.
 
 Der wahre (transzendentale) Begriff der Unendlichkeit ist: daß die
 sukzessive Synthesis der Einheit in Durchmessung eines Quantum niemals
-vollendet sein kann.* Hieraus folgt ganz sicher, daß eine Ewigkeit
+vollendet sein kann. Hieraus folgt ganz sicher, daß eine Ewigkeit
 wirklicher aufeinanderfolgenden Zustände bis zu einem gegebenen (dem
 gegenwärtigen) Zeitpunkte nicht verflossen sein kann, die Welt also
 einen Anfang haben müsse.
-
-* Dieses enthält dadurch eine Menge (von gegebener Einheit), die
-  größer ist als alle Zahl, welches der mathematische Begriff des
-  Unendlichen ist.
 
 In Ansehung des zweiten Teils der Thesis fällt die Schwierigkeit,
 von einer unendlichen und doch abgelaufenen Reihe zwar weg; denn das
@@ -10361,19 +10081,12 @@ oder jene zur Wirklichkeit gehören; aber umgekehrt kann der Raum,
 als etwas, welches für sich besteht, die Wirklichkeit der Dinge in
 Ansehung der Größe oder Gestalt nicht bestimmen, weil er an sich
 selbst nichts Wirkliches ist. Es kann also wohl ein Raum (er sei voll
-oder leer)* durch Erscheinungen begrenzt, Erscheinungen aber können
+oder leer) durch Erscheinungen begrenzt, Erscheinungen aber können
 nicht durch einen leeren Raum außer denselben begrenzt werden. Eben
 dieses gilt auch von der Zeit. Alles dieses nun zugegeben, so ist
 gleichwohl unstreitig, daß man diese zwei Undinge, den leeren Raum
 außer und die leere Zeit vor der Welt, durchaus annehmen müsse, wenn
 man eine Weltgrenze, es sei dem Raume oder der Zeit nach, annimmt.
-
-* Man bemerkt leicht, daß hierdurch gesagt werden wolle: der
-  leere Raum, sofern er durch Erscheinungen begrenzt wird, mithin
-  derjenige innerhalb der Welt, widerspreche wenigstens nicht den
-  transzendentalen Prinzipien, und können also in Ansehung dieser
-  eingeräumt (obgleich darum seine Möglichkeit nicht sofort behauptet
-  werden).
 
 Denn was den Ausweg betrifft, durch den man der Konsequenz
 auszuweichen sucht, nach welcher wir sagen: daß, wenn die Welt (der
@@ -10809,7 +10522,7 @@ Ursache, ein schlechthin notwendig Wesen ist.
 Die Sinnenwelt, als das Ganze aller Erscheinungen, enthält zugleich
 eine Reihe von Veränderungen. Denn, ohne diese, würde selbst die
 Vorstellung der Zeitreihe, als einer Bedingung der Möglichkeit der
-Sinnenwelt, uns nicht gegeben sein*. Eine jede Veränderung aber steht
+Sinnenwelt, uns nicht gegeben sein. Eine jede Veränderung aber steht
 unter ihrer Bedingung, die der Zeit nach vorhergeht, und unter welcher
 sie notwendig ist. Nun setzt ein jedes Bedingte, das gegeben ist, in
 Ansehung seiner Existenz, eine vollständige Reihe von Bedingungen bis
@@ -10832,11 +10545,6 @@ Inbegriff aller Erscheinungen, nicht abgesondert gedacht werden. Also
 ist in der Welt selbst etwas Schlechthinnotwendiges enthalten (es mag
 nun dieses die ganze Weltreihe selbst, oder ein Teil derselben sein).
 
-* Die Zeit geht zwar als formale Bedingung der Möglichkeit der
-  Veränderungen vor dieser objektiv vorher, allein subjektiv, und in
-  der Wirklichkeit des Bewußtseins, ist, diese Vorstellung doch nur,
-  so wie jede andere, durch Veranlassung der Wahrnehmungen gegeben.
-
         Antithesis
 
 Es existiert überall kein schlechthin notwendiges Wesen, weder in der
@@ -10857,19 +10565,13 @@ einziger Teil derselben ein an sich notwendiges Dasein besitzt.
 Setzet dagegen: es gebe eine schlechthin notwendige Weltursache außer
 der Welt, so würde dieselbe als das oberste Glied in der Reihe der
 Ursachen der Weltveränderungen, das Dasein der letzteren und ihre
-Reihe zuerst anfangen*. Nun müßte sie aber alsdann auch anfangen zu
+Reihe zuerst anfangen. Nun müßte sie aber alsdann auch anfangen zu
 handeln, und ihre Kausalität würde in die Zeit, eben darum aber in
 den Inbegriff der Erscheinungen, d.i. in die Welt gehören, folglich
 sie selbst, die Ursache, nicht außer der Welt sein, welches der
 Voraussetzung widerspricht. Also ist weder in der Welt, noch
 außer derselben (aber mit ihr in Kausalverbindung) irgendein
 schlechthinnotwendiges Wesen.
-
-* Das Wort: Anfangen, wird in zwiefacher Bedeutung genommen. Die erste
-  ist aktiv, da die Ursache eine Reihe von Zuständen als ihre Wirkung
-  anfängt (infit.). Die zweite passiv, da die Kausalität in der
-  Ursache selbst anhebt (fit.). Ich schließe hier aus der ersteren auf
-  die letzte.
 
         Anmerkung zur vierten Antinomie
         I. zur Thesis
@@ -11221,26 +10923,7 @@ er selbst in den Fehler der Unbescheidenheit, der hier um desto
 tadelhafter ist, weil dadurch dem praktischen Interesse der Vernunft
 ein unersetzlicher Nachteil verursacht wird.
 
-Dies ist der Gegensatz des Epikureisms* gegen den Platonisms.
-
-* Es ist indessen noch die Frage, ob Epikur diese Grundsätze als
-  objektive Behauptungen jemals vorgetragen habe. Wenn sie etwa weiter
-  nichts als Maximen des spekulativen Gebrauchs der Vernunft waren,
-  so zeigte er daran einen echteren philosophischen Geist, als
-  irgendeiner der Weltweisen des Altertums: daß man in Erklärung
-  der Erscheinungen so zu Werke gehen müsse, als ob das Feld der
-  Untersuchung durch keine Grenze oder Anfang der Welt abgeschnitten
-  sei; den Stoff der Welt so annehmen, wie er sein muß, wenn wir
-  von ihm durch Erfahrung belehrt werden wollen; daß keine andere
-  Erzeugung der Begebenheiten, als wie sie durch unveränderliche
-  Naturgesetze bestimmt werden, und endlich keine von der Welt
-  unterschiedene Ursache müsse gebraucht werden; sind noch jetzt
-  sehr richtige, aber wenig beobachtete Grundsätze, die spekulative
-  Philosophie zu erweitern, so wie auch die Prinzipien der Moral,
-  unabhängig von fremden Hilfsquellen auszufinden, ohne daß darum
-  derjenige, welcher verlangt, jene dogmatischen Sätze, so lange als
-  wir mit der bloßen Spekulation beschäftigt sind, zu ignorieren,
-  darum beschuldigt werden darf, er wolle sie leugnen.
+Dies ist der Gegensatz des Epikureisms gegen den Platonisms.
 
 Ein jeder von beiden sagt mehr, als er weiß, doch so, daß der erstere
 das Wissen, obzwar zum Nachteile des Praktischen, aufmuntert und
@@ -11385,7 +11068,7 @@ Erscheinung (in uns selbst) das Denken ist, (Seele,) ein an sich
 einfaches Wesen sei, ob es eine Ursache aller Dinge insgesamt gebe,
 die schlechthin notwendig ist, usw., so sollen wir zu unserer Idee
 einen Gegenstand suchen, von welchem wir gestehen können, daß er uns
-unbekannt, aber deswegen doch nicht unmöglich sei.* Die kosmologischen
+unbekannt, aber deswegen doch nicht unmöglich sei. Die kosmologischen
 Ideen haben allein das Eigentümliche an sich, daß sie ihren Gegenstand
 und die zu dessen Begriff erforderliche empirische Synthesis als
 gegeben voraussetzen können, und die Frage, die aus ihnen entspringt,
@@ -11403,22 +11086,6 @@ Synthesis bloß nähern soll: also muß sie aus der Idee allein aufgelöst
 werden können; denn diese ist ein bloßes Geschöpf der Vernunft, welche
 also die Verantwortung nicht von sich abweisen und auf den unbekannten
 Gegenstand schieben kann.
-
-* Man kann zwar auf die Frage, was ein transzendentaler Gegenstand
-  für eine Beschaffenheit habe, keine Antwort geben, nämlich was er
-  sei, aber wohl, daß die Frage selbst nichts sei, darum, weil kein
-  Gegenstand derselben gegeben worden. Daher sind alle Fragen der
-  transzendentalen Seelenlehre auch beantwortlich und wirklich
-  beantwortet; denn sie betreffen das transz. Subjekt aller inneren
-  Erscheinungen, welches selbst nicht Erscheinung ist und also nicht
-  als Gegenstand gegeben ist, und worauf keine der Kategorien (auf
-  welche doch eigentlich die Frage gestellt ist) Bedingungen ihrer
-  Anwendung antreffen. Also ist hier der Fall, da der gemeine Ausdruck
-  gilt, daß keine Antwort auch eine Antwort sei, nämlich daß eine
-  Frage nach der Beschaffenheit desjenigen Etwas, was durch kein
-  bestimmtes Prädikat gedacht werden kann, weil es gänzlich außer der
-  Sphäre der Gegenstände gesetzt wird, die uns gegeben werden können,
-  gänzlich nichtig und leer sei.
 
 Es ist nicht so außerordentlich, als es anfangs scheint: daß eine
 Wissenschaft in Ansehung aller in ihren Inbegriff gehörigen Fragen
@@ -12309,7 +11976,7 @@ Weltzustände, imgleichen der Dinge, welche im Weltraume zugleich sind,
 ist selbst nichts anderes, als ein möglicher empirischer Regressus,
 den ich mir, obzwar noch unbestimmt, denke, und wodurch der Begriff
 einer solchen Reihe von Bedingungen zu der gegebenen Wahrnehmung
-allein entstehen kann*. Nun habe ich das Weltganze jederzeit nur im
+allein entstehen kann. Nun habe ich das Weltganze jederzeit nur im
 Begriffe, keineswegs aber (als Ganzes) in der Anschauung. Also kann
 ich nicht von seiner Größe auf die Größe des Regressus schließen,
 und diese jener gemäß bestimmen, sondern ich muß mir allererst einen
@@ -12337,14 +12004,6 @@ also ferner fortschreiten müssen, welches der regressus in indefinitum
 ist, der, weil er keine Größe im Objekt bestimmt, von dem in infinitum
 deutlich genug zu unterscheiden ist.
 
-* Diese Weltreihe kann also auch weder größer, noch kleiner sein,
-  als der mögliche empirische Regressus, auf dem allein ihr Begriff
-  beruht. Und da dieser kein bestimmtes Unendliche, ebensowenig aber
-  auch ein bestimmtendliches (schlechthin Begrenztes) geben kann:
-  so ist daraus klar, daß wir die Weltgröße weder als endlich,
-  noch unendlich annehmen können, weil der Regressus (dadurch jene
-  vorgestellt wird) keines von beiden zuläßt.
-
 Ich kann demnach nicht sagen: die Welt ist der vergangenen Zeit, oder
 dem Raume nach unendlich. Denn dergleichen Begriff von Größe, als
 einer gegebenen Unendlichkeit, ist empirisch, mithin auch in Ansehung
@@ -12371,17 +12030,7 @@ der Begrenzung durch schlechthin leere Zeit, oder leeren Raum, möglich
 sein, durch welche diese Weltenden in einer möglichen Erfahrung
 gegeben wären. Eine solche Erfahrung aber, als völlig leer an Inhalt,
 ist unmöglich. Also ist eine absolute Weltgrenze empirisch, mithin
-auch schlechterdings unmöglich*.
-
-* Man wird bemerken: daß der Beweis hier auf ganz andere Art geführt
-  worden, als der dogmatische, oben in der Antithesis der ersten
-  Antinomie. Daselbst hatten wir die Sinnenwelt, nach der gemeinen und
-  dogmatischen Vorstellungsart, für ein Ding, was an sich selbst, vor
-  allem Regressus, seiner Totalität nach gegeben war, gelten lassen,
-  und hatten ihr, wenn sie nicht alle Zeit und alle Räume einnähme,
-  überhaupt irgendeine bestimmte Stelle in beiden abgesprochen. Daher
-  war die Folgerung auch anders, als hier, nämlich es wurde auf die
-  wirkliche Unendlichkeit derselben geschlossen.
+auch schlechterdings unmöglich.
 
 Hieraus folgt denn zugleich die bejahende Antwort: der Regressus in
 der Reihe der Welterscheinungen, als eine Bestimmung der Weltgröße,
@@ -12605,7 +12254,7 @@ daß beide dialektischen Gegenbehauptungen für falsch erklärt werden
 mußten. Dagegen das Durchgängigbedingte der dynamischen Reihen,
 welches von ihnen als Erscheinungen unzertrennlich ist, mit der zwar
 empirischunbedingten, aber auch nichtsinnlichen Bedingung verknüpft,
-dem Verstande einerseits und der Vernunft andererseits* Genüge
+dem Verstande einerseits und der Vernunft andererseits Genüge
 leisten, und, indem die dialektischen Argumente, welche unbedingte
 Totalität in bloßen Erscheinungen auf eine oder andere Art suchten,
 wegfallen, dagegen die Vernunftsätze, in der auf solche Weise
@@ -12614,17 +12263,6 @@ den kosmologischen Ideen, die bloß mathematischunbedingte Einheit
 betreffen, niemals stattfinden kann, weil bei ihnen keine Bedingung
 der Reihe der Erscheinungen angetroffen wird, als die auch selbst
 Erscheinung ist und als solche mit ein Glied der Reihe ausmacht.
-
-* Denn der Verstand erlaubt unter Erscheinungen keine Bedingung, die
-  selbst empirisch unbedingt wäre. Ließe sich aber eine intelligible
-  Bedingung, die also nicht in die Reihe der Erscheinungen, als
-  ein Glied, mit gehörte, zu einem Bedingten (in der Erscheinung)
-  gedenken, ohne doch dadurch die Reihe empirischer Bedingungen im
-  mindesten zu unterbrechen: so könnte eine solche als empirisch
-  unbedingt zugelassen werden, so daß dadurch dem empirischen
-  kontinuierlichen Regressus nirgend Abbruch geschähe.
-
-
 
 III. Auflösung der kosmologischen Ideen
 von der Totalität der Ableitung der Weltbegebenheiten aus ihren
@@ -13059,7 +12697,7 @@ genau bestimmt und notwendig ist? Dieser ist wiederum im intelligiblen
 Charakter (der Denkungsart) bestimmt. Die letztere kennen wir aber
 nicht, sondern bezeichnen sie durch Erscheinungen, welche eigentlich
 nur die Sinnesart (empirischen Charakter) unmittelbar zu erkennen
-geben*. Die Handlung nun, sofern sie der Denkungsart, als ihrer
+geben. Die Handlung nun, sofern sie der Denkungsart, als ihrer
 Ursache, beizumessen ist, erfolgt dennoch daraus gar nicht nach
 empirischen Gesetzen, d.i. so, daß die Bedingungen der reinen
 Vernunft, sondern nur so, daß deren Wirkungen in der Erscheinung
@@ -13081,15 +12719,6 @@ sukzessiven Reihe von Begebenheiten selbst empirischunbedingt sein
 konnte. Denn hier ist die Bedingung außer der Reihe der Erscheinungen
 (im Intelligiblen) und mithin keiner sinnlichen Bedingung und keiner
 Zeitbestimmung durch vorbeigehende Ursache unterworfen.
-
-* Die eigentliche Moralität der Handlungen (Verdienst und Schuld)
-  bleibt uns daher, selbst die unseres eigenen Verhaltens, gänzlich
-  verborgen. Unsere Zurechnungen können nur auf den empirischen
-  Charakter bezogen werden. Wie viel aber davon reine Wirkung der
-  Freiheit, wie viel der bloßen Natur und dem unverschuldeten Fehler
-  des Temperaments, oder dessen glücklicher Beschaffenheit (merito
-  fortunae) zuzuschreiben sei, kann niemand ergründen, und daher auch
-  nicht nach völliger Gerechtigkeit richten.
 
 Gleichwohl gehört doch eben dieselbe Ursache in einer anderen
 Beziehung auch zur Reihe der Erscheinungen. Der Mensch ist selbst
@@ -13549,7 +13178,7 @@ Verhältnis auf die gesamte Möglichkeit, als den Inbegriff aller
 Prädikate der Dinge überhaupt, und, indem es solche als Bedingung a
 priori voraussetzt, so stellt es ein jedes Ding so vor, wie es von
 dem Anteil, den es an jener gesamten Möglichkeit hat, seine eigene
-Möglichkeit ableite.* Das Prinzipium der durchgängigen Bestimmung
+Möglichkeit ableite. Das Prinzipium der durchgängigen Bestimmung
 betrifft also den Inhalt, und nicht bloß die logische Form. Es ist der
 Grundsatz der Synthesis aller Prädikate, die den vollständigen Begriff
 von einem Dinge machen sollen, und nicht bloß der analytischen
@@ -13557,18 +13186,6 @@ Vorstellung, durch eines zweier entgegengesetzten Prädikate, und
 enthält eine transzendentale Voraussetzung, nämlich die der Materie zu
 aller Möglichkeit, welche a priori die Data zur besonderen Möglichkeit
 jedes Dinges enthalten soll.
-
-* Es wird also durch diesen Grundsatz jedes Ding auf ein
-  gemeinschaftliches Korrelatum, nämlich die gesamte Möglichkeit,
-  bezogen, welche, wenn sie (d.i. der Stoff zu allen möglichen
-  Prädikaten) in der Idee eines einzigen Dinges angetroffen würde,
-  eine Affinität alles Möglichen durch die Identität des Grundes
-  der durchgängigen Bestimmung desselben beweisen würde. Die
-  Bestimmbarkeit eines jeden Begriffs ist der Allgemeinheit
-  (Universalitas) des Grundsatzes der Ausschließung eines Mittleren
-  zwischen zwei entgegengesetzten Prädikaten, die Bestimmung aber
-  eines Dinges der Allheit (Universitas) oder dem Inbegriffe aller
-  möglichen Prädikate untergeordnet.
 
 Der Satz: alles Existierende ist durchgängig bestimmt, bedeutet nicht
 allein, daß von jedem Paare einander entgegengesetzten gegebenen,
@@ -13621,20 +13238,12 @@ Nun kann sich niemand eine Verneinung bestimmt denken, ohne daß er die
 entgegengesetzte Bejahung zum Grunde liegen habe. Der Blindgeborene
 kann sich nicht die mindeste Vorstellung von Finsternis machen, weil
 er keine vom Lichte hat; der Wilde nicht von der Armut, weil er den
-Wohlstand nicht kennt.* Der Unwissende hat keinen Begriff von seiner
+Wohlstand nicht kennt. Der Unwissende hat keinen Begriff von seiner
 Unwissenheit, weil er keinen von der Wissenschaft hat, usw. Es
 sind also auch alle Begriffe der Negationen abgeleitet, und die
 Realitäten enthalten die Data und sozusagen die Materie, oder den
 transzendentalen Inhalt, zu der Möglichkeit und durchgängigen
 Bestimmung aller Dinge.
-
-* Die Beobachtungen und Berechnungen der Sternkundigen haben uns viel
-  Bewunderungswürdiges gelehrt, aber das Wichtigste ist wohl, daß
-  sie uns den Abgrund der Unwissenheit aufgedeckt haben, den die
-  menschliche Vernunft, ohne diese Kenntnisse, sich niemals so
-  groß hätte vorstellen können, und worüber das Nachdenken eine
-  große Veränderung in der Bestimmung der Endabsichten unseres
-  Vernunftgebrauchs hervorbringen muß.
 
 Wenn also der durchgängigen Bestimmung in unserer Vernunft ein
 transzendentales Substratum zum Grunde gelegt wird, welches gleichsam
@@ -13807,21 +13416,7 @@ Erscheinung uns ein einzelnes Ding denken, was alle empirische
 Realität in sich enthält, welches dann, vermittelst der schon
 gedachten transzendentalen Subreption, mit dem Begriffe eines Dinges
 verwechselt wird, was an der Spitze der Möglichkeit aller Dinge steht,
-zu deren durchgängiger Bestimmung es die realen Bedingungen hergibt.*
-
-* Dieses Ideal des allerrealsten Wesens wird also, ob es zwar eine
-  bloße Vorstellung ist, zuerst realisiert, d.i. zum Objekt gemacht,
-  darauf hypostasiert, endlich, durch einen natürlichen Fortschritt
-  der Vernunft zur Vollendung der Einheit, sogar personifiziert, wie
-  wir bald anführen werden; weil die regulative Einheit der Erfahrung
-  nicht auf den Erscheinungen selbst (der Sinnlichkeit allein),
-  sondern auf der Verknüpfung ihres Mannigfaltigen durch den Verstand
-  (in einer Apperzeption) beruht, mithin die Einheit der höchsten
-  Realität und die durchgängige Bestimmbarkeit (Möglichkeit) aller
-  Dinge in einem höchsten Verstande, mithin in einer Intelligenz zu
-  liegen scheint.
-
-
+zu deren durchgängiger Bestimmung es die realen Bedingungen hergibt.
 
 Des dritten Hauptstücks
 Dritter Abschnitt
@@ -14124,22 +13719,11 @@ in sich selbst widersprechend sei, und dieses ist der Begriff des
 allerrealsten Wesens. Es hat, sagt ihr, alle Realität, und ihr seid
 berechtigt, ein solches Wesen als möglich anzunehmen, (welches ich
 vorjetzt einwillige, obgleich der sich nicht widersprechende Begriff
-noch lange nicht die Möglichkeit des Gegenstandes beweist)*. Nun ist
+noch lange nicht die Möglichkeit des Gegenstandes beweist). Nun ist
 unter aller Realität auch das Dasein mitbegriffen: Also liegt das
 Dasein in dem Begriffe von einem Möglichen. Wird dieses Ding nun
 aufgehoben, so wird die innere Möglichkeit des Dinges aufgehoben,
 welches widersprechend ist.
-
-* Der Begriff ist allemal möglich, wenn er sich nicht widerspricht.
-  Das ist das logische Merkmal der Möglichkeit, und dadurch wird
-  sein Gegenstand vom nihil negativum unterschieden. Allein er kann
-  nichtsdestoweniger ein leerer Begriff sein, wenn die objektive
-  Realität der Synthesis, dadurch der Begriff erzeugt wird, nicht
-  besonders dargetan wird; welches aber jederzeit, wie oben gezeigt
-  worden, auf Prinzipien möglicher Erfahrung und nicht auf dem
-  Grundsatze der Analysis (dem Satze des Widerspruchs) beruht. Das
-  ist eine Warnung, von der Möglichkeit der Begriffe (logische) nicht
-  sofort auf die Möglichkeit der Dinge (reale) zu schließen.
 
 Ich antworte: Ihr habt schon einen Widerspruch begangen, wenn ihr in
 den Begriff eines Dinges, welches ihr lediglich seiner Möglichkeit
@@ -14323,7 +13907,7 @@ Er lautet also: Wenn etwas existiert, so muß auch ein schlechterdings
 notwendiges Wesen existieren. Nun existiere, zum mindesten, ich
 selbst: also existiert ein absolut notwendiges Wesen. Der Untersatz
 enthält eine Erfahrung, der Obersatz die Schlußfolge aus einer
-Erfahrung überhaupt auf das Dasein des Notwendigen.* Also hebt der
+Erfahrung überhaupt auf das Dasein des Notwendigen. Also hebt der
 Beweis eigentlich von der Erfahrung an, mithin ist er nicht gänzlich
 a priori geführt, oder ontologisch, und weil der Gegenstand aller
 möglichen Erfahrung Welt heißt, so wird er darum der kosmologische
@@ -14333,14 +13917,6 @@ unterscheiden mag, abstrahiert: so wird er schon in seiner Benennung
 auch vom physikotheologischen Beweise unterschieden, welcher
 Beobachtungen der besonderen Beschaffenheit dieser unserer Sinnenwelt
 zu Beweisgründen braucht.
-
-* Diese Schlußfolge ist zu bekannt, als das es nötig wäre, sie
-  hier weitläufig vorzutragen. Sie beruht auf dem vermeintlich
-  transzendentalen Naturgesetz der Kausalität: daß alles Zufällige
-  seine Ursache habe, die, wenn sie wiederum zufällig ist, ebensowohl
-  eine Ursache haben muß, bis die Reihe der einander untergeordneten
-  Ursachen sich bei einer schlechthin notwendigen Ursache endigen muß,
-  ohne welche sie keine Vollständigkeit haben würde.
 
 Nun schließt der Beweis weiter: das notwendige Wesen kann nur auf
 eine einzige Art, d.i. in Ansehung aller möglichen entgegengesetzten
@@ -14974,12 +14550,8 @@ und deren Regel angenommen werden muß, nämlich Natur und Freiheit.
 Daher steigt sie von dieser Welt zur höchsten Intelligenz auf,
 entweder als dem Prinzip aller natürlichen, oder aller sittlichen
 Ordnung und Vollkommenheit. Im ersteren Falle heißt sie
-Physikotheologie, im letzten Moraltheologie.*
+Physikotheologie, im letzten Moraltheologie.
 
-* Nicht theologische Moral; denn die enthält sittliche Gesetze, welche
-  das Dasein eines höchsten Weltregierers voraussetzen, da hingegen
-  die Moraltheologie eine Überzeugung vom Dasein eines höchsten Wesens
-  ist, welche auf sittliche Gesetze gründet ist.
 
 Da man unter dem Begriffe von Gott nicht etwa bloß eine blindwirkende
 ewige Natur, als die Wurzel der Dinge, sondern ein höchstes Wesen,
@@ -16253,7 +15825,7 @@ zu der größten systematischen Einheit derselben zu gelangen. Die
 Voraussetzung einer obersten Intelligenz, als der alleinigen Ursache
 des Weltganzen, aber freilich bloß in der Idee, kann also jederzeit
 der Vernunft nutzen und dabei doch niemals schaden. Denn, wenn wir in
-Ansehung der Figur der Erde (der runden, doch etwas abgeplatteten)*,
+Ansehung der Figur der Erde (der runden, doch etwas abgeplatteten),
 der Gebirge und Meere usw. lauter weise Absichten eines Urhebers
 zum voraus annehmen, so können wir auf diesem Wege eine Menge von
 Entdeckungen machen. Bleiben wir nur bei dieser Voraussetzung, als
@@ -16284,17 +15856,6 @@ Kausalität der obersten Weltursache, und, als ob diese, als höchste
 Intelligenz, nach der weisesten Absicht die Ursache von allem sei, zu
 gelangen.
 
-* Der Vorteil, den eine kugelichte Erdgestalt schafft, ist bekannt
-  genug; aber wenige wissen, daß ihre Abplattung, als eines Sphäroids,
-  es allein verhindert, daß nicht die Hervorragungen des festen
-  Landes, oder auch kleinerer, vielleicht durch Erdbeben aufgeworfener
-  Berge, die Achse der Erde kontinuierlich und in nicht eben langer
-  Zeit ansehnlich verrücke, wäre nicht die Aufschwellung der Erde
-  unter der Linie ein so gewaltiger Berg, den der Schwung jedes
-  anderen Berges niemals merklich aus seiner Lage in Ansehung der
-  Achse bringen kann. Und doch erklärt man diese weise Anstalt ohne
-  Bedenken aus dem Gleichgewicht der ehemals flüssigen Erdmasse.
-
 Gehen wir aber von dieser Restriktion der Idee auf den bloß
 regulativen Gebrauch ab, so wird die Vernunft auf so mancherlei Weise
 irregeführt, indem sie alsdann den Boden der Erfahrung, der doch
@@ -16307,7 +15868,7 @@ gänzlich abgeschnitten sieht.
 Der erste Fehler, der daraus entspringt, daß man die Idee eines
 höchsten Wesens nicht bloß regulativ, sondern (welches der Natur einer
 Idee zuwider ist) konstitutiv braucht, ist die faule Vernunft (ignava
-ratio)*. Man kann jeden Grundsatz so nennen, welcher macht, daß man
+ratio). Man kann jeden Grundsatz so nennen, welcher macht, daß man
 seine Naturuntersuchung, wo es auch sei, für schlechthin vollendet
 ansieht, und die Vernunft sich also zur Ruhe begibt, als ob sie ihr
 Geschäft völlig ausgerichtet habe. Daher selbst die psychologische
@@ -16356,15 +15917,6 @@ allgemeinen Gesetzen verfolgen dürfen. Denn so allein kann das
 Prinzip der zweckmäßigen Einheit den Vernunftgebrauch in Ansehung der
 Erfahrung jederzeit erweitern, ohne ihm in irgendeinem Falle Abbruch
 zu tun.
-
-* So nannten die alten Dialektiker einen Trugschluß, der so lautete:
-  Wenn es dein Schicksal mit sich bringt, du sollst von dieser
-  Krankheit genesen, so wird es geschehen, du magst einen Arzt
-  brauchen, oder nicht. Cicero sagt, daß diese Art zu schließen ihren
-  Namen daher habe, daß, wenn man ihr folgt, gar kein Gebrauch der
-  Vernunft im Leben übrig bleibe. Dieses ist die Ursache, warum ich
-  das sophistische Argument der reinen Vernunft mit demselben Namen
-  belege.
 
 Der zweite Fehler, der aus der Mißdeutung des gedachten Prinzips der
 systematischen Einheit entspringt, ist der der verkehrten Vernunft
@@ -16445,7 +15997,7 @@ kühne Behauptung in Ansehung der zwei Fragen, wobei die reine Vernunft
 ihr größtes Interesse hat, bestätigen, und dadurch unsere Betrachtung
 über die Dialektik derselben zur gänzlichen Vollendung bringen.
 
-Frägt man denn also (in Absicht auf eine transzendentale Theologie)*
+Frägt man denn also (in Absicht auf eine transzendentale Theologie)
 erstlich: ob es etwas von der Welt Unterschiedenes gebe, was den Grund
 der Weltordnung und ihres Zusammenhanges nach allgemeinen Gesetzen
 enthalte, so ist die Antwort: ohne Zweifel. Denn die Welt ist eine
@@ -16478,15 +16030,6 @@ der Welteinheit an sich selbst sei, hat dadurch nicht gedacht werden
 sollen, sondern wie wir ihn, oder vielmehr seine Idee, relativ auf den
 systematischen Gebrauch der Vernunft in Ansehung der Dinge der Welt,
 brauchen sollen.
-
-* Dasjenige, was ich schon vorher von der psychologischen Idee und
-  deren eigentlichen Bestimmung, als Prinzips zum bloß regulativen
-  Vernunftgebrauch, gesagt habe, überhebt mich der Weitläufigkeit, die
-  transzendentale Illusion, nach der jene systematische Einheit aller
-  Mannigfaltigkeit des inneren Sinnes hypostatisch vorgestellt wird,
-  noch besonders zu erörtern. Das Verfahren hierbei ist demjenigen
-  sehr ähnlich, welches die Kritik in Ansehung des theologischen
-  Ideals beobachtet.
 
 Auf solche Weise aber können wir doch (wird man fortfahren zu fragen)
 einen einigen weisen und allgewaltigen Welturheber annehmen? Ohne
@@ -16707,17 +16250,8 @@ Sie ist von der Kultur unterschieden, welche bloß eine Fertigkeit
 verschaffen soll, ohne eine andere, schon vorhandene, dagegen
 aufzuheben. Zu der Bildung eines Talents, welches schon vor sich
 selbst einen Antrieb zur Äußerung hat, wird also die Disziplin einen
-negativen*, die Kultur aber und Doktrin einen positiven Beitrag
+negativen, die Kultur aber und Doktrin einen positiven Beitrag
 leisten.
-
-* Ich weiß wohl, daß man in der Schulsprache den Namen der Disziplin
-  mit dem der Unterweisung gleichgeltend zu brauchen pflegt. Allein,
-  es gibt dagegen so viele andere Fälle, da der erstere Ausdruck, als
-  Zucht, von dem zweiten, als Belehrung, sorgfältig unterschieden
-  wird, und die Natur der Dinge erheischt es auch selbst, für diesen
-  Unterschied die einzigen schicklichen Ausdrücke aufzubewahren, daß
-  ich wünsche, man möge niemals erlauben, jenes Wort in anderer als
-  negativer Bedeutung zu brauchen.
 
 Daß das Temperament, imgleichen daß Talente, die sich gern eine freie
 und uneingeschränkte Bewegung erlauben, (als Einbildungskraft und
@@ -17001,22 +16535,12 @@ lediglich die Synthesis der empirischen Anschauungen (die also a
 priori nicht gegeben werden können), und es kann also aus ihm,
 weil die Synthesis nicht a priori zu der Anschauung, die ihm
 korrespondiert, hinausgehen kann, auch kein bestimmender synthetischer
-Satz, sondern nur ein Grundsatz der Synthesis* möglicher empirischer
+Satz, sondern nur ein Grundsatz der Synthesis möglicher empirischer
 Anschauungen entspringen. Also ist ein transzendentaler Satz ein
 synthetisches Vernunfterkenntnis nach bloßen Begriffen, und mithin
 diskursiv, indem dadurch alle synthetische Einheit der empirischen
 Erkenntnis allererst möglich, keine Anschauung aber dadurch a priori
 gegeben wird.
-
-* Vermittelst des Begriffs der Ursache gehe ich wirklich aus dem
-  empirischen Begriffe von einer Begebenheit (da etwas geschieht)
-  heraus, aber nicht zu der Anschauung, die den Begriff der Ursache in
-  concreto darstellt, sondern zu den Zeitbedingungen überhaupt, die
-  in der Erfahrung dem Begriffe der Ursache gemäß gefunden werden
-  möchten. Ich verfahre also bloß nach Begriffen, und kann nicht durch
-  Konstruktion der Begriffe verfahren, weil der Begriff eine Regel der
-  Synthesis der Wahrnehmungen ist, die keine reine Anschauungen sind,
-  und sich also a priori nicht geben lassen.
 
 So gibt es denn einen doppelten Vernunftgebrauch, der, unerachtet der
 Allgemeinheit der Erkenntnis und ihrer Erzeugung a priori, welche sie
@@ -17121,7 +16645,7 @@ Philosophie nicht ausschlagen, noch sich über sie wegsetzen kann.
 
 1. Von den Definitionen. Definieren soll, wie es der Ausdruck selbst
 gibt, eigentlich nur so viel bedeuten, als, den ausführlichen Begriff
-eines Dinges innerhalb seiner Grenzen ursprünglich darstellen*.
+eines Dinges innerhalb seiner Grenzen ursprünglich darstellen.
 Nach einer solchen Forderung kann ein empirischer Begriff gar nicht
 definiert, sondern nur expliziert werden. Denn, da wir an ihm nur
 einige Merkmale von einer gewissen Art Gegenstände der Sinne haben,
@@ -17186,14 +16710,6 @@ durch Zergliederung (deren Vollständigkeit nicht apodiktisch gewiß
 ist), diese synthetisch zustande gebracht werden, und also den Begriff
 selbst machen, dagegen die ersteren ihn nur erklären. Hieraus folgt:
 
-* Ausführlichkeit bedeutet die Klarheit und Zulänglichkeit der
-  Merkmale; Grenzen die Präzision, daß deren nicht mehr sind, als
-  zum ausführlichen Begriffe gehören; ursprünglich aber, daß diese
-  Grenzbestimmung nicht irgend woher abgeleitet sei und also noch
-  eines Beweises bedürfe, welches die vermeintliche Erklärung unfähig
-  machen würde, an der Spitze aller Urteile über einen Gegenstand zu
-  stehen.
-
 a) daß man es in der Philosophie der Mathematik nicht so nachtun
 müsse, die Definition voranzuschicken, als nur etwa zum bloßen
 Versuche. Denn, da sie Zergliederungen gegebener Begriffe sind, so
@@ -17203,24 +16719,11 @@ einigen Merkmalen, die wir aus einer noch unvollendeten Zergliederung
 gezogen haben, manches vorher schließen können, ehe wir zur
 vollständigen Exposition, d.i. der Definition gelangt sind; mit
 einem Worte, daß in der Philosophie die Definition, als abgemessene
-Deutlichkeit, das Werk eher schließe, als anfangen müsse*. Dagegen
+Deutlichkeit, das Werk eher schließe, als anfangen müsse. Dagegen
 haben wir in der Mathematik gar keinen Begriff vor der Definition, als
 durch welche der Begriff allererst gegeben wird, sie muß also und kann
 auch jederzeit davon anfangen.
 
-* Die Philosophie wimmelt von fehlerhaften Definitionen, vornehmlich
-  solchen, die zwar wirklich Elemente zur Definition, aber noch nicht
-  vollständig enthalten. Würde man nun eher gar nichts mit einem
-  Begriffe anfangen können, als bis man ihn definiert hätte, so würde
-  es gar schlecht mit allem Philosophieren stehen. Da aber, so weit
-  die Elemente (der Zergliederung) reichen, immer ein guter und
-  sicherer Gebrauch davon zu machen ist, so können auch mangelhafte
-  Definitionen, d.i. Sätze, die eigentlich noch nicht Definitionen,
-  aber übrigens wahr und also Annäherungen zu ihnen sind, sehr
-  nützlich gebraucht werden. In der Mathematik gehört die Definition
-  ad esse, in der Philosophie ad melius esse. Es ist schön, aber
-  oft sehr schwer, dazu zu gelangen. Noch suchen die Juristen eine
-  Definition zu ihrem Begriffe von Recht.
 
 b) Mathematische Definitionen können niemals irren. Denn, weil der
 Begriff durch die Definition zuerst gegeben wird, so enthält er gerade
@@ -18836,22 +18339,13 @@ die letzte Absicht der weislich uns versorgenden Natur, bei der
 Einrichtung unserer Vernunft, eigentlich nur aufs Moralische gestellt.
 
 Es ist aber Behutsamkeit nötig, um, da wir unser Augenmerk auf einen
-Gegenstand werfen, der der transzendentalen Philosophie fremd* ist,
+Gegenstand werfen, der der transzendentalen Philosophie fremd ist,
 nicht in Episoden auszuschweifen und die Einheit des Systems zu
 verletzen, andererseits auch, um, indem man von seinem neuen Stoffe
 zu wenig sagt, es an Deutlichkeit oder Überzeugung nicht fehlen zu
 lassen. Ich hoffe beides dadurch zu leisten, daß ich mich so nahe
 als möglich am Transzendentalen halte und das, was etwa hierbei
 psychologisch, d.h. empirisch sein möchte, gänzlich beiseite setze.
-
-* Alle praktischen Begriffe gehen auf Gegenstände des Wohlgefallens,
-  oder Mißfallens, d.i. der Lust oder Unlust, mithin, wenigstens
-  indirekt, auf Gegenstände unseres Gefühls. Da dieses aber keine
-  Vorstellungskraft der Dinge ist, sondern außer der gesamten
-  Erkenntniskraft liegt, so gehören die Elemente unserer Urteile,
-  sofern sie sich auf Lust oder Unlust beziehen, mithin der
-  praktischen, nicht in den Inbegriff der Transzendentalphilosophie,
-  welche lediglich mit reinen Erkenntnissen a priori zu tun hat.
 
 Und da ist denn zuerst anzumerken, daß ich mich vorjetzt des Begriffs
 der Freiheit nur im praktischen Verstande bedienen werde, und den in
@@ -19518,7 +19012,7 @@ Gesetze gänzlich gleichgültig wäre, so wird die Frage, welche die
 Vernunft aufwirft, bloß eine Aufgabe für die Spekulation, und kann
 alsdann zwar noch mit starken Gründen aus der Analogie, aber nicht
 mit solchen, denen sich die hartnäckigste Zweifelsucht ergeben müßte,
-unterstützt werden*. Es ist aber kein Mensch bei diesen Fragen frei
+unterstützt werden. Es ist aber kein Mensch bei diesen Fragen frei
 von allem Interesse. Denn, ob er gleich von dem moralischen, durch den
 Mangel guter Gesinnungen, getrennt sein möchte: so bleibt doch auch in
 diesem Falle genug übrig, um zu machen, daß er ein göttliches Dasein
@@ -19531,16 +19025,6 @@ vernünftiger Mensch übernehmen kann. Das würde ein negativer Glaube
 sein, der zwar nicht Moralität und gute Gesinnungen, aber doch das
 Analogon derselben bewirken, nämlich den Ausbruch der bösen mächtig
 zurückhalten könnte.
-
-* Das menschliche Gemüt nimmt (so wie ich glaube, daß es bei jedem
-  vernünftigen Wesen notwendig geschieht) ein natürliches Interesse
-  an der Moralität, ob es gleich nicht ungeteilt und praktisch
-  überwiegend ist. Befestigt und vergrößert dieses Interesse, und ihr
-  werdet die Vernunft sehr gelehrig und selbst aufgeklärter finden, um
-  mit dem praktischen auch das spekulative Interesse zu vereinigen.
-  Sorget ihr aber nicht dafür, daß ihr vorher, wenigstens auf dem
-  halben Wege, gute Menschen macht, so werdet ihr auch niemals aus
-  ihnen aufrichtiggläubige Menschen machen!
 
 Ist das aber alles, wird man sagen, was reine Vernunft ausrichtet,
 indem sie über die Grenzen der Erfahrung hinaus Aussichten eröffnet?
@@ -19750,13 +19234,8 @@ der menschlichen Vernunft zu befördern. Diesen allein müßten wir den
 Philosoph nennen; aber, da er selbst doch nirgend, die Idee aber
 seiner Gesetzgebung allenthalben in jeder Menschenvernunft angetroffen
 wird, so wollen wir uns lediglich an der letzteren halten, und
-näher bestimmen, was Philosophie, nach diesem Weltbegriffe*, für
+näher bestimmen, was Philosophie, nach diesem Weltbegriffe, für
 systematische Einheit aus dem Standpunkte der Zwecke vorschreibe.
-
-* Weltbegriff heißt hier derjenige, der das betrifft, was jedermann
-  notwendig interessiert; mithin bestimme ich die Absicht einer
-  Wissenschaft nach Schulbegriffen, wenn sie nur als eine von den
-  Geschicklichkeiten zu gewissen beliebigen Zwecken angesehen wird.
 
 Wesentliche Zwecke sind darum noch nicht die höchsten, deren (bei
 vollkommener systematischer Einheit der Vernunft) nur ein einziger
@@ -19921,21 +19400,7 @@ Demnach besteht das ganze System der Metaphysik aus vier Hauptteilen.
 1. Der Ontologie. 2. Der rationalen Physiologie. 3. Der rationalen
 Kosmologie. 4. Der rationalen Theologie. Der zweite Teil, nämlich die
 Naturlehre der reinen Vernunft, enthält zwei Abteilungen, die physica
-rationalis* und psychologia rationalis.
-
-* Man denke ja nicht, daß ich hierunter dasjenige verstehe, was man
-  gemeiniglich physica generalis nennt, und mehr Mathematik, als
-  Philosophie der Natur ist. Denn die Metaphysik der Natur sondert
-  sich gänzlich von der Mathematik ab, hat auch bei weitem nicht so
-  viel erweiternde Einsichten anzubieten, als diese, ist aber doch
-  sehr wichtig, in Ansehung der Kritik des auf die Natur anzuwendenden
-  reinen Verstandeserkenntnisses überhaupt; in Ermanglung deren
-  selbst Mathematiker, indem sie gewissen gemeinen, in der Tat doch
-  metaphysischen Begriffen anhängen, die Naturlehre unvermerkt
-  mit Hypothesen belästigt haben, welche bei einer Kritik dieser
-  Prinzipien verschwinden, ohne dadurch doch dem Gebrauche der
-  Mathematik in diesem Felde (der ganz unentbehrlich ist) im mindesten
-  Abbruch zu tun.
+rationalis und psychologia rationalis.
 
 Die ursprüngliche Idee einer Philosophie der reinen Vernunft schreibt
 diese Abteilung selbst vor; sie ist also architektonisch, ihren
