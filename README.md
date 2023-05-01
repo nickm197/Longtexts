@@ -9,7 +9,7 @@ The texts are, as I believe, in the public domain. The texts have been obtained 
 - Table of contents and any indices were removed, except for the table of contents from Don Quixote
 - Any links to illustrations have been removed
 - In the Russian version of War and Peace any non-Russian text have been replaced with Russian translations
-- Etimology was removed from Moby-Dick or, The Whale, where encountered, as some languages missed it  
+- Etymology was removed from Moby-Dick or, The Whale, where encountered, as some languages missed it  
 
 
 # Notice and take down policy
@@ -20,4 +20,4 @@ Notice: Should you consider that the data contains material that is owned by you
 
 Send the request to nickm@ntrlab.com
 
-Take down: I will comply to legitimate requests by removing the affected sources from the corpus.
+Take down: I will comply with legitimate requests by removing the affected sources from the corpus.
